@@ -1,1 +1,1 @@
-{"visual":true,"nativeLanguage":"raml","nativeFormat":"yaml","visualModel":{"info":{"title":"New API"}}}
+{"visual":true,"nativeLanguage":"raml","nativeFormat":"yaml","visualModel":{"info":{"title":"New API"},"protocols":["https"]}}
