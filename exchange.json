@@ -1,1 +1,1 @@
-{"name":"New_API","classifier":"raml","tags":[],"main":"ignacio_test.raml","groupId":"00590acb-8929-43a7-806a-167018392a55","assetId":"new_api","version":"1.0.0","apiVersion":"v1","dependencies":[{"groupId":"00590acb-8929-43a7-806a-167018392a55","assetId":"datatypeexample","version":"1.0.0"}]}
+{"name":"testToken","classifier":"raml","tags":[],"main":"testtoken.raml"}
