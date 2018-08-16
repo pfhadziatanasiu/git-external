@@ -1,1 +1,1 @@
-{"name":"test-specification","classifier":"raml","tags":[],"main":"test-specification.raml"}
+{"name":"testfrag2","classifier":"raml-fragment","tags":["trait"],"main":"testfrag2.raml"}
